@@ -32,6 +32,6 @@ If you have configured MySQL correctly, then all the functionality is as follows
 
 P.S: don't forget to create a unique ID column
 ## Others
-Free distribution, copying, whatever is allowed.
-Yes, I know that design is shit, next?
+Free distribution, copying, whatever is allowed.\n
+Yes, I know that design is shit, next?\n
 The complete creation took 5.5 hours, including the "design".
